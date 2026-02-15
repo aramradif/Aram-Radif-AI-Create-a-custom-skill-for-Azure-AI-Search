@@ -1,7 +1,5 @@
 # Aram-Radif-AI-Custom-Skills-for-Intelligent-Index-Enrichment-Azure-AI-Search
 
-Create a custom skill for Azure AI Search
-
 Project Overview
 Modern search applications require more than keyword matching. As an AI Engineer, I designed and implemented a custom skill pipeline for Azure AI Search to enrich indexed documents using:
 •	Custom Text Classification (Azure Language Service)
